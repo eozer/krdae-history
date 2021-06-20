@@ -1,0 +1,18 @@
+name: Listener for krdae-data
+
+on:
+  repository_dispatch:
+    types:
+      - krdae-data-event
+  workflow_dispatch:
+
+jobs:
+  listener:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test listener
+        run: |
+          echo "Hello world!"
+      - name: Dump event payload
+        run: |
+          jq . "$GITHUB_EVENT_PATH"
