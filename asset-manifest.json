@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/krdae-history/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/krdae-history/static/js/main.66cb1e46.chunk.js",
+    "main.js.map": "/krdae-history/static/js/main.66cb1e46.chunk.js.map",
+    "runtime-main.js": "/krdae-history/static/js/runtime-main.ef796c3b.js",
+    "runtime-main.js.map": "/krdae-history/static/js/runtime-main.ef796c3b.js.map",
+    "static/css/2.081f420c.chunk.css": "/krdae-history/static/css/2.081f420c.chunk.css",
+    "static/js/2.ffc4ab09.chunk.js": "/krdae-history/static/js/2.ffc4ab09.chunk.js",
+    "static/js/2.ffc4ab09.chunk.js.map": "/krdae-history/static/js/2.ffc4ab09.chunk.js.map",
+    "index.html": "/krdae-history/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/krdae-history/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/krdae-history/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ffc4ab09.chunk.js.LICENSE.txt": "/krdae-history/static/js/2.ffc4ab09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef796c3b.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.ffc4ab09.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.66cb1e46.chunk.js"
+  ]
+}
